@@ -4,12 +4,18 @@
 
 Passionate about creating immersive experiences using Unreal Engine 5 and C++. Focused on horror, story-driven, and linear games.
 
-## 🛠️ Skills & Tools
+## AI Driven Full-Stack Web Development (Frontend Focus)
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Databases: MongoDB, PostgreSQL, MySQL
+- Version Control: Git & GitHub
+- Deployment: Vercel, Netlify, Docker, AWS (Basics)
+
+## Game Development
 - Unreal Engine 5 (Blueprints & C++)
 - Game Design & Mechanics Implementation
 - AI, Game Physics, and Optimization
-- Blender (Basic 3D modeling & texturing)
-- Git & GitHub
+- Blender (Basic 3D Modeling & Texturing)
 
 ---
 
