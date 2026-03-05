@@ -1,38 +1,42 @@
-# Hi there! 👋
+# Hi there, I'm Hrushikesh 👋
 
-## AI-Driven Full-Stack Engineer (Frontend Focus)
-React · Next.js · TypeScript · Node.js
+## Frontend Engineer · Full-Stack · React · Next.js · TypeScript
 
-I build high-performance, accessible, and visually stunning web applications.
-Clean architecture, pixel-perfect UIs, and end-to-end ownership — from Figma to production.
-
----
-
-## 🌐 Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS, TypeScript
-- **Backend:** Node.js, Express.js, FastAPI, WebRTC
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Deployment:** Vercel, Netlify, Docker, AWS
+I build high-performance, accessible web applications with clean architecture
+and pixel-perfect execution. End-to-end ownership — from Figma to production.
 
 ---
 
-## 🚀 Notable Projects
+## 🛠️ Tech Stack
 
-**CodeFlow** — Paste any JS/TS code → instant interactive flowchart.
-Built with Next.js, Babel AST parser, and React Flow. Zero API cost, fully client-side.
+**Frontend:** React.js · Next.js 15 · TypeScript · Tailwind CSS · Framer Motion
+**Backend:** Node.js · Express.js · FastAPI · WebRTC · REST APIs
+**Databases:** PostgreSQL · MongoDB · MySQL · Supabase
+**Deployment:** Vercel · Netlify · Docker · AWS
 
-**AllyNerds** — Built the entire frontend & backend from scratch.
-Integrated WebRTC for real-time communication, FastAPI, and REST APIs.
+---
 
-**SASA Inventory (PoolDesk)** — Real-time inventory SaaS replacing manual records.
-`Next.js 15 · React 19 · Supabase · PostgreSQL`
+## 🚀 Featured Projects
 
-**TMA Wind Energy** — Technical platform for wind turbine company. 90+ Lighthouse score.
-`Next.js 14 · TypeScript · Framer Motion`
+| Project | Description | Stack |
+|---|---|---|
+| **CodeFlow** 🚧 | Code → interactive flowchart via Babel AST | Next.js · TypeScript · React Flow |
+| **SASA Inventory** | Real-time inventory SaaS for retail | Next.js 15 · Supabase · PostgreSQL |
+| **TMA Wind Energy** | Technical platform · 90+ Lighthouse | Next.js 14 · TypeScript · Framer Motion |
+| **GhostCat Energy** | Investor brochure for 180MW+ wind project | React 18 · Vite 5 · Tailwind |
+
+---
+
+## 💼 Currently
+
+- 🔨 Building **CodeFlow** — paste code, get an interactive flowchart
+- 💼 Full-Stack Engineer at **AllyNerds** — built entire frontend & backend, WebRTC integration
+- 🇯🇵 Open to frontend opportunities in **Japan**
 
 ---
 
 ## 📫 Connect
-- 🌐 [hrushikeshbatwe.com](https://hrushikeshbatwe.com)
-- 💼 [LinkedIn](https://linkedin.com/in/hrushikeshbatwe)
-- 🐙 [GitHub](https://github.com/hrushikeshbatwe)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hrushikeshbatwe.com-black?style=flat&logo=vercel)](https://hrushikeshbatwe.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hrushikeshbatwe-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hrushikeshbatwe)
+[![Email](https://img.shields.io/badge/Email-hrushikeshbatwe02@gmail.com-red?style=flat&logo=gmail)](mailto:hrushikeshbatwe02@gmail.com)
