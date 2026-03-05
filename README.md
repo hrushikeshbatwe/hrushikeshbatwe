@@ -1,35 +1,38 @@
 # Hi there! 👋
 
-## 🎮 Game Developer | Unreal Engine 5 | C++ | Blender
+## AI-Driven Full-Stack Engineer (Frontend Focus)
+React · Next.js · TypeScript · Node.js
 
-Passionate about creating immersive experiences using Unreal Engine 5 and C++. Focused on horror, story-driven, and linear games.
-
-## AI Driven Full-Stack Web Development (Frontend Focus)
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express.js
-- Databases: MongoDB, PostgreSQL, MySQL
-- Version Control: Git & GitHub
-- Deployment: Vercel, Netlify, Docker, AWS (Basics)
-
-## Game Development
-- Unreal Engine 5 (Blueprints & C++)
-- Game Design & Mechanics Implementation
-- AI, Game Physics, and Optimization
-- Blender (Basic 3D Modeling & Texturing)
+I build high-performance, accessible, and visually stunning web applications.
+Clean architecture, pixel-perfect UIs, and end-to-end ownership — from Figma to production.
 
 ---
 
-## 🎮 Notable Projects
-- Phantom Infiltration – Stealth-action game with quests & combos
-- Obstacle Assault – Mini-platformer built in 2 days
--
+## 🌐 Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express.js, FastAPI, WebRTC
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Deployment:** Vercel, Netlify, Docker, AWS
 
-> 🚧 *Currently working on a horror dungeon game!*
+---
+
+## 🚀 Notable Projects
+
+**CodeFlow** — Paste any JS/TS code → instant interactive flowchart.
+Built with Next.js, Babel AST parser, and React Flow. Zero API cost, fully client-side.
+
+**AllyNerds** — Built the entire frontend & backend from scratch.
+Integrated WebRTC for real-time communication, FastAPI, and REST APIs.
+
+**SASA Inventory (PoolDesk)** — Real-time inventory SaaS replacing manual records.
+`Next.js 15 · React 19 · Supabase · PostgreSQL`
+
+**TMA Wind Energy** — Technical platform for wind turbine company. 90+ Lighthouse score.
+`Next.js 14 · TypeScript · Framer Motion`
 
 ---
 
 ## 📫 Connect
-- 🌐 Portfolio: [Webflow](#)
-- 🕹️ Itch.io: [My Games](#)
-
-Let's create something amazing! 🚀
+- 🌐 [hrushikeshbatwe.com](https://hrushikeshbatwe.com)
+- 💼 [LinkedIn](https://linkedin.com/in/hrushikeshbatwe)
+- 🐙 [GitHub](https://github.com/hrushikeshbatwe)
