@@ -19,6 +19,8 @@ and pixel-perfect execution. End-to-end ownership — from Figma to production.
 ## 💼 Experience
 
 **AllyNerds — Full-Stack Engineer** *(Current)*
+[allynerds.com
+](https://www.allynerds.com/)
 Built the entire frontend & backend from scratch as sole engineer.
 Integrated WebRTC for real-time communication, FastAPI, and REST APIs.
 `React.js · Node.js · WebRTC · FastAPI · REST APIs`
