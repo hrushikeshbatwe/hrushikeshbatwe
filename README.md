@@ -3,7 +3,7 @@
 ### Frontend Engineer · Unreal Engine 5 Artist
 
 I build fast, clean web apps with React and Next.js, and real-time cinematics in Unreal Engine 5.
-Building in UE5 since 2022 · UE5 certified · Founder of Titanium Studios
+Building in UE5 since 2022 · UE5 certified · 
 
 ---
 
